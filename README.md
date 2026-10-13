@@ -1,6 +1,7 @@
 # HIDSI Workshop: Physics-Informed AI for Environmental Data Science
 
 **Friday, October 16, 2026**
+
 Presenter: Frederike Monte, PhD candidate, Atmospheric Sciences, University of Hawaiʻi at Mānoa
 
 ## Overview
@@ -23,7 +24,7 @@ The model is trained on cooler conditions (*T* < 20 °C) and tested on warmer co
 
 ## Quick start
 
-**Option 1 — Google Colab (recommended, nothing to install)**
+**Option 1 — Google Colab**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<user>/<repo>/blob/main/physics_informed_humidity.ipynb)
 
