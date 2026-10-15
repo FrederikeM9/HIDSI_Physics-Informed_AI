@@ -66,7 +66,6 @@ If the automatic download fails, download the backup from `data/` and place it n
 
 ## Further reading
 
-- Karniadakis et al. (2021): Physics-informed machine learning. *Nature Reviews Physics*.
 - Raissi, Perdikaris & Karniadakis (2019): Physics-informed neural networks. *Journal of Computational Physics*.
-- Beucler et al. (2021): Enforcing analytic constraints in neural networks emulating physical systems. *Physical Review Letters*.
+- Karniadakis et al. (2021): Physics-informed machine learning. *Nature Reviews Physics*.
 - Kashinath et al. (2021): Physics-informed machine learning: case studies for weather and climate modelling. *Phil. Trans. R. Soc. A*.
