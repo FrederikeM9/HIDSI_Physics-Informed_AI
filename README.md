@@ -49,7 +49,7 @@ No GPU or HPC resources needed — everything runs on a laptop CPU in a few minu
 | File | Description |
 |---|---|
 | `physics_informed_humidity.ipynb` | Workshop notebook (start here) |
-| `physics_informed_humidity_with_outputs.ipynb` | Same notebook with all outputs — in case something doesn't run |
+| `physics_informed_humidity_with_outputs.ipynb` | Same notebook with all outputs (as backup) |
 | `HIDSI_workshop_slides.pdf` | Workshop slides |
 | `requirements.txt` | Python packages for local use |
 | `data/jena_climate_2009_2016.csv.zip` | Backup copy of the dataset (the notebook downloads it automatically) |
@@ -57,7 +57,7 @@ No GPU or HPC resources needed — everything runs on a laptop CPU in a few minu
 ## Prerequisites
 
 - Basic Python (NumPy, pandas, Matplotlib)
-- Basic idea of what a neural network is (we'll recap)
+- Basic idea of what a neural network is
 - Tools: Python, Jupyter notebooks, NumPy, pandas, Matplotlib, PyTorch
 
 ## Data
