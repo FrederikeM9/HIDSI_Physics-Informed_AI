@@ -24,7 +24,7 @@ The model is trained on cooler conditions (*T* < 20 °C) and tested on warmer co
 
 ## Quick start
 
-**Option 1 — Google Colab (recommended, nothing to install)**
+**Option 1 — Google Colab**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FrederikeM9/HIDSI_Physics-Informed_AI/blob/main/physics_informed_humidity.ipynb)
 
@@ -40,8 +40,6 @@ pip install -r requirements.txt
 jupyter notebook physics_informed_humidity.ipynb
 ```
 
-PyTorch is a large download — if the installation takes too long, use Google Colab instead.
-
 No GPU or HPC resources needed — everything runs on a laptop CPU in a few minutes.
 
 **Before the workshop:** please open the notebook and run the first cell ("Setup check") to make sure everything works.
@@ -52,7 +50,7 @@ No GPU or HPC resources needed — everything runs on a laptop CPU in a few minu
 |---|---|
 | `physics_informed_humidity.ipynb` | Workshop notebook (start here) |
 | `physics_informed_humidity_with_outputs.ipynb` | Same notebook with all outputs — in case something doesn't run |
-| `workshop_slides.pdf` | Workshop slides |
+| `HIDSI_workshop_slides.pdf` | Workshop slides |
 | `requirements.txt` | Python packages for local use |
 | `data/jena_climate_2009_2016.csv.zip` | Backup copy of the dataset (the notebook downloads it automatically) |
 
