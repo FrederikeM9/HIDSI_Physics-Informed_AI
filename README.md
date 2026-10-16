@@ -69,3 +69,9 @@ If the automatic download fails, download the backup from `data/` and place it n
 - Raissi, Perdikaris & Karniadakis (2019): Physics-informed neural networks. *Journal of Computational Physics*.
 - Karniadakis et al. (2021): Physics-informed machine learning. *Nature Reviews Physics*.
 - Kashinath et al. (2021): Physics-informed machine learning: case studies for weather and climate modelling. *Phil. Trans. R. Soc. A*.
+
+
+- Raissi, M., Perdikaris, P., & Karniadakis, G. E. (2019). Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations. Journal of Computational Physics, 378, 686–707. https://doi.org/10.1016/j.jcp.2018.10.045
+- Karniadakis, G. E., Kevrekidis, I. G., Lu, L., Perdikaris, P., Wang, S., & Yang, L. (2021). Physics-informed machine learning. Nature Reviews Physics, 3, 422–440. https://doi.org/10.1038/s42254-021-00314-5
+- Kashinath, K., Mustafa, M., Albert, A., Wu, J.-L., Jiang, C., Esmaeilzadeh, S., Azizzadenesheli, K., Wang, R., Chattopadhyay, A., Singh, A., Manepalli, A., Chirila, D., Yu, R., Walters, R., White, B., Xiao, H., Tchelepi, H. A., Marcus, P., Anandkumar, A., Hassanzadeh, P., & Prabhat (2021). Physics-informed machine learning: case studies for weather and climate modelling. Phil. Trans. R. Soc. A, 379(2194), 20200093. https://doi.org/10.1098/rsta.2020.0093
+
